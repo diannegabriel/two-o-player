@@ -7,5 +7,6 @@ class Game
     print "Enter your name: "
     player_two = Player.new(gets.chomp)
     puts "Player Two will be #{player_two.name}."
+    Question.new(player_one)
   end 
 end

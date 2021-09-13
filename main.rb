@@ -2,6 +2,7 @@
 
 require './game'
 require './player'
+require './question'
 
 # player_one = Player.new('Chubby')
 # player_two = Player.new('Tobi')
