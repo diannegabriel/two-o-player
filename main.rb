@@ -4,9 +4,6 @@ require './game'
 require './player'
 
 player_one = Player.new('Chubby')
-player_two = Player.new('Cutie')
+player_two = Player.new('Tobi')
 
-# puts player_one.name
-
-# new_game("Chubby", "Cutie")
 new_game(player_one, player_two)
