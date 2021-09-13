@@ -29,6 +29,8 @@
 # lives = 3
 # score
 # wrong_answer
+# game
+# question
 
 # Task 2: Write their roles
 # There will be two players
